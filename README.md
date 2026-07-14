@@ -46,36 +46,36 @@ Below is the updated gallery showcasing the visual assets generated during the E
 
 ### 1. Overall Distribution of Wind Speed
 A detailed histogram combined with a kernel density curve showing the frequency of different wind speed levels.
-![Overall Distribution of Wind Speed](outputs/windspeed_histogram.png)
+![Overall Distribution of Wind Speed](https://github.com/Alok12390/Weather-Data-/blob/821b9472930c0523708e18441a9ddad13d069a2b/graphs/windspeed_histogram.png)
 
 ### 2. Wind Speed Spread Across Top 5 Weather Conditions
 A multi-colored box plot illustrating the distribution, median values, and extreme outliers of wind speed separated by the top weather states.
-![Wind Speed Spread Across Weather Conditions](outputs/t5weathercondition_box.png)
+![Wind Speed Speead Across Weather Conditions](https://github.com/Alok12390/Weather-Data-/blob/821b9472930c0523708e18441a9ddad13d069a2b/graphs/t5weathercondition_box.png )
 
 ### 3. Temperature vs Relative Humidity
 A scatter plot demonstrating the dense clustering and relationship patterns between atmospheric temperature and humidity metrics.
-![Temperature vs Relative Humidity](outputs/tem&humidity_scatter.png)
+![Temperature vs Relative Humidity](https://github.com/Alok12390/Weather-Data-/blob/821b9472930c0523708e18441a9ddad13d069a2b/graphs/tem%26humidity_scatter.png)
 
 ### 4. Distribution of Temperature
 An orange-themed continuous histogram mapping out the exact frequency distribution of temperature values across the collection period.
-![Distribution of Temperature](outputs/temperature_histogram.png)
+![Distribution of Temperature](https://github.com/Alok12390/Weather-Data-/blob/821b9472930c0523708e18441a9ddad13d069a2b/graphs/temperature_histogram.png)
 
 ### 5. Temperature Trend Lines (Raw vs Aggregated)
 Chronological time-series charts mapping out raw sequential records alongside aggregated seasonal variants.
-![Temperature Trend Data](outputs/temperature_line.png)
-![Daily Temperature Trend Over Time](outputs/temperature_trend.png)
+![Temperature Trend Data](https://github.com/Alok12390/Weather-Data-/blob/821b9472930c0523708e18441a9ddad13d069a2b/graphs/temperature_line.png)
+![Daily Temperature Trend Over Time](https://github.com/Alok12390/Weather-Data-/blob/821b9472930c0523708e18441a9ddad13d069a2b/graphs/temperature_trend.png)
 
 ### 6. Weather Condition Categorical Frequencies
 Clean visualizations demonstrating how often categorical weather conditions occur, utilizing clean horizontal groupings and full frequency breakdowns.
-![Top 5 Most Frequent Weather Conditions](https://github.com/Alok12390/Weather-Data-/blob/5b9f72286169b3fe8445cb67a6f5f1d145e74376/graphs/t5weathercondition_box.png)
-![Weather Condition Frequency Count](outputs/weathercondition_bar.png)
+![Top 10 Most Frequent Weather Conditions](https://github.com/Alok12390/Weather-Data-/blob/821b9472930c0523708e18441a9ddad13d069a2b/graphs/weather_bar_chart.png)
+![Weather Condition Frequency Count](https://github.com/Alok12390/Weather-Data-/blob/821b9472930c0523708e18441a9ddad13d069a2b/graphs/weathercondition_bar.png)
 
 ### 7. Weather Trend Over Time
 A comprehensive line chart capturing time-series fluctuations across consecutive records.
-![Weather Line Chart](outputs/weather_line.png)
+![Weather Line Chart](https://github.com/Alok12390/Weather-Data-/blob/821b9472930c0523708e18441a9ddad13d069a2b/graphs/weather_line.png)
 
 ### 8. Share of Top 10 Weather Conditions
 A clean pie chart highlighting the percentage share and proportional distribution of the most dominant weather profiles.
-![Weather Distribution Pie Chart](outputs/weatherdistiributiony_pie.png)
+![Weather Distribution Pie Chart](https://github.com/Alok12390/Weather-Data-/blob/821b9472930c0523708e18441a9ddad13d069a2b/graphs/weatherdistiributiony_pie.png)
 
 ---
