@@ -67,7 +67,7 @@ Chronological time-series charts mapping out raw sequential records alongside ag
 
 ### 6. Weather Condition Categorical Frequencies
 Clean visualizations demonstrating how often categorical weather conditions occur, utilizing clean horizontal groupings and full frequency breakdowns.
-![Top 10 Most Frequent Weather Conditions](outputs/weather_bar_chart.png)
+![Top 5 Most Frequent Weather Conditions](https://github.com/Alok12390/Weather-Data-/blob/5b9f72286169b3fe8445cb67a6f5f1d145e74376/graphs/t5weathercondition_box.png)
 ![Weather Condition Frequency Count](outputs/weathercondition_bar.png)
 
 ### 7. Weather Trend Over Time
